@@ -16,7 +16,7 @@ h1{
 }
 
 #Chicken{
-    border: 3px solid black;
+    border: 2px solid black;
     
     padding-top: 0px;
     position: relative;
@@ -31,7 +31,7 @@ h1{
     right: 0;
     background-color: pink;
     float: right;
-    border: 3px solid black;
+    border: 2px solid black;
     border-top: 0;
     border-right: 0;
     padding: 7px;
@@ -54,7 +54,7 @@ h1{
 }
 /* --------------------------------------------------- */
 #Beef{
-    border: 3px solid black;
+    border: 2px solid black;
     
     padding-top: 0px;
     position: relative;
@@ -68,7 +68,7 @@ h1{
     right: 0;
     background-color: rgb(218, 93, 84);
     float: right;
-    border: 3px solid black;
+    border: 2px solid black;
     border-top: 0;
     border-right: 0;
     padding: 7px;
@@ -92,7 +92,7 @@ h1{
 /* --------------------------------------------------- */
 /* MOBILE PHONE  */
 #Sushi{
-    border: 3px solid black;
+    border: 2px solid black;
     padding-top: 0px;
     background-color: #E1C340;
     margin-top: 30px;
@@ -104,7 +104,7 @@ h1{
     right: 0;
     background-color: rgb(235, 220, 9);
     float: right;
-    border: 3px solid black;
+    border: 2px solid black;
     border-top: 0;
     border-right: 0;
     padding: 7px;
@@ -116,7 +116,7 @@ h1{
 }
 
 #Sushi p{
-    /* top:3px; */
+    
     text-align: justify;
     clear: both;
     padding-top: 5px;
