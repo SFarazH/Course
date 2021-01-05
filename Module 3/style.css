@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+}
+
+body{
+  background-color:#61122f;
+  color:white;
+}
+
+.navbar{
+  color: black;
+  background-color: black;
+  border-radius: 0px;
+}
+
+.color
+{
+  color: black;
+  border-color: black;
+}
+
+#Chicken{
+  background-attachment: teal;
+}
+
