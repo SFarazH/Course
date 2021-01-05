@@ -20,7 +20,8 @@ body{
   border-color: black;
 }
 
-#Chicken{
-  background-attachment: teal;
+h1{
+  margin: 25px;
+  margin-bottom: 50px;
+  color: yellow;
 }
-
